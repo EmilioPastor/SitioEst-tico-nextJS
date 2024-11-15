@@ -43,7 +43,7 @@ export default function Home() {
         <ItemLista>Haber cursado enseñanzas superiores no siempre da derecho a la convalidación de enseñanzas relacionadas, pero de menor nivel, aunque en ambas haya materias con nombres similares.</ItemLista>
         <Image
           src="https://www.juntadeandalucia.es/educacion/gestionafp/documentacion/Informacion_tutorial/class-377117_960_720.jpg"
-          alt=""
+          alt="genteSentada"
           width={960}
           height={720}
           className="self-center"

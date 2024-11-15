@@ -19,7 +19,7 @@ export default function Home() {
           src="https://www.juntadeandalucia.es/educacion/gestionafp/documentacion/Informacion_tutorial/scales-308063_1280.png"
           width={200}
           height={200}
-          alt=""
+          alt="imagenPortada"
           className="self-center"
         />
       </div>
